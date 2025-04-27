@@ -48,7 +48,7 @@
 
 ## 📈 GitHub Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tegha-romeo&theme=github" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tegha-romeo&theme=rogue" alt="Contribution Graph" />
 
 
 ---
