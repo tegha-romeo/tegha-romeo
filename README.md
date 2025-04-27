@@ -33,11 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegha-romeo&theme=radical" alt="GitHub streak"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegha-romeo&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
