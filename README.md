@@ -29,6 +29,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegha-romeo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegha-romeo&theme=radical" alt="GitHub streak"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegha-romeo&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tegha-romeo&theme=radical&margin-w=15&margin-h=15"/>
+</p>
+
+
 ---
 
 ### 📫 Connect With Me:
@@ -36,3 +53,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/romeo-dze-tegha-1375b6341/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+
