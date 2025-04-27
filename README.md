@@ -44,6 +44,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tegha-romeo&theme=radical&margin-w=15&margin-h=15"/>
 </p>
+---
+
+## 📈 GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tegha-romeo&theme=github" alt="Contribution Graph" />
 
 
 ---
