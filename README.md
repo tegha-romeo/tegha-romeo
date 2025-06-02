@@ -6,8 +6,11 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m looking for help with **Advanced Docker, Kubernetes, and Linux Administration**
 - 💬 Ask me about **Linux, Git, Shell scripting, Cloud Fundamentals**
-- 📫 How to reach me **[romeotegha@gmail.com](mail.romeotegha@gmail.com)**
 - ⚡ Fun fact: **I love fun, positivity, and continuous learning!**
+ - 📫 Connect With Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/romeo-dze-tegha-1375b6341/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
@@ -40,18 +43,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tegha-romeo&theme=radical&margin-w=15&margin-h=15"/>
 </p>
 ---
-
-## 📈 GitHub Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tegha-romeo&theme=rogue" alt="Contribution Graph" />
-
-
----
-
-### 📫 Connect With Me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/romeo-dze-tegha-1375b6341/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 
